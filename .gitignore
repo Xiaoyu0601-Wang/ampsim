@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# Files
+src/Godot_4WS4WD_simulation_game/*
+
+# Folders
+install
+build
+log
